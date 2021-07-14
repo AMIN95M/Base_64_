@@ -29,7 +29,7 @@ G = math.cos(xr)
 print (G)
 """.........compress function..............."""
 
-x = open.file('fire.mp4',r)
+x = open.file('file.format',r)
 
 x = str(x)
 
